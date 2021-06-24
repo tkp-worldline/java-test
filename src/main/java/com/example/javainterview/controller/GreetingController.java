@@ -4,10 +4,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-public class GreetingController {
+public class WordCountController {
 
-    @GetMapping("/greeting")
-    public String greeting() {
-        return "Hello";
-    }
+    // Implement the endpoints here
 }
