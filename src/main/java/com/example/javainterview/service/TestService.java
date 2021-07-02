@@ -1,5 +1,5 @@
 package com.example.javainterview.service;
 
-public class GreetingService {
+public class TestService {
 
 }

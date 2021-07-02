@@ -1,5 +1,5 @@
 package com.example.javainterview.data;
 
-public class Greeting {
+public class Test {
 
 }
